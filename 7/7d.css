@@ -1,0 +1,10 @@
+.textbar{
+  border-width: 1px;
+  height: 25px;
+  font-size: 15px;
+  border-radius: 5px;
+  border-style: solid;
+  width: 150px;
+  padding-left: 8px;
+  
+}

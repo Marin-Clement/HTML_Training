@@ -1,0 +1,25 @@
+.profile_picture{
+ vertical-align: middle;
+ width: 50px;
+ border-radius: 25px;
+}
+.tweet_input{
+vertical-align: middle;
+border: none;
+outline: none;
+width: 200px;
+}
+.tweet_button{
+vertical-align: middle;
+border: none;
+border-radius: 100px;
+color: white;
+padding-top: 5px;
+padding-bottom: 5px ;
+padding-left: 10px;
+padding-right: 10px;
+font-weight: bold;
+font-size: 10px;
+background-color: rgb(66, 134, 212);
+cursor: pointer;
+}
